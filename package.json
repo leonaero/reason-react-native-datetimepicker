@@ -1,0 +1,21 @@
+{
+  "name": "reason-react-native-datetimepicker",
+  "version": "0.10.4",
+  "type": "module",
+  "scripts": {
+    "build": "bsb -make-world",
+    "start": "bsb -make-world -w",
+    "clean": "bsb -clean-world"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Leon Software"
+  },
+  "peerDependencies": {
+    "@react-native-community/datetimepicker": "2.2.2"
+  },
+  "dependencies": {
+    "reason-react": "^0.7.0",
+    "bs-platform": "^5.2.1"
+  }
+}
