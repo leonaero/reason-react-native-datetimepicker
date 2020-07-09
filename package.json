@@ -1,6 +1,6 @@
 {
   "name": "reason-react-native-datetimepicker",
-  "version": "0.10.4",
+  "version": "1.0",
   "type": "module",
   "scripts": {
     "build": "bsb -make-world",

@@ -1,6 +1,6 @@
 {
-  "name": "reason-date-fns-tz",
-  "version": "1.0.9",
+  "name": "reason-react-native-datetimepicker",
+  "version": "1.0",
   "reason": {
     "react-jsx": 3
   },
