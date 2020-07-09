@@ -1,3 +1,2 @@
-# Reason bindings for date-fns-tz
+# Reason bindings for @react-native-community/datetimepicker
 
-Documentation for date-fns-tz: https://github.com/marnusw/date-fns-tz#readme
