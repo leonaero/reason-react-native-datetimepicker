@@ -1,6 +1,6 @@
 {
   "name": "reason-react-native-datetimepicker",
-  "version": "1.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "build": "bsb -make-world",
@@ -11,6 +11,7 @@
   "author": {
     "name": "Leon Software"
   },
+  "sideEffects": false,
   "peerDependencies": {
     "@react-native-community/datetimepicker": "2.2.2"
   },
